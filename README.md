@@ -1,30 +1,19 @@
 # 👋 Hi, I'm Likhitha Swamy
 
-### Network Engineer | Network Automation | Python | Linux | Cisco | AWS Cloud 
+### Cloud & Security Engineer | AWS Certified Solutions Architect
 
-I’m a Network Engineer with hands-on experience in **Layer 2/3 troubleshooting, LAN/WAN infrastructure, incident management, and network automation**.
+ Working with: AWS, Linux, Python, Bash, GitHub Actions, Terraform (learning)
+ Focus: Cloud security, IAM, network security, automation
+ AI & Data: Machine Learning, Deep Learning, OpenCV, Edge AI, SQL, Agenetic AI
+ Currently: Preparing for CompTIA Security+
 
-I enjoy solving infrastructure problems through automation and building practical networking projects using **Cisco technologies, Python, Linux, and Git**. I also have a working foundation in **Machine Learning, OpenCV, and AI-driven automation**.
+I’m a cloud and security-focused engineer with a networking foundation. For about a year, I supported production network services in a service-assurance environment, troubleshooting L2/L3 connectivity, working to SLA targets, and documenting root causes in ServiceNow.
 
----
+I’m now focused on cloud engineering and cloud security. I’m an AWS Certified Solutions Architect and I’m preparing for CompTIA Security+. I work with AWS (EC2, VPC, S3, IAM, CloudWatch), Linux, Python and Bash, and I’m building hands-on projects around secure cloud configuration and automated security auditing.
 
-## 🌐 What I Work With
+**Core skills: AWS • IAM & least privilege • Network security • Linux • Python/Bash automation • CI/CD (GitHub Actions) • Splunk • Wireshark • Nmap**
 
-**Networking**
-
-`TCP/IP` `DHCP` `DNS` `IPv4/IPv6` `VLAN` `LAN/WAN` `Routing & Switching` `OSPF`
-
-**Network Security**
-
-`ACL` `Firewall Concepts` `NAT/PAT` `Security Monitoring` `Incident Response`
-
-**Automation & Tools**
-
-`Python` `Linux` `Git` `GitHub` `ServiceNow` `Cisco IOS` `Cisco Packet Tracer`
-
-**AI & Data**
-
-`Machine Learning` `Deep Learning` `OpenCV` `Edge AI` `SQL` `Data Visualization`
+Open to cloud engineer, cloud security, NOC and security operations roles.
 
 ---
 
@@ -80,15 +69,14 @@ Developed an AI-based system to detect vacant and occupied parking slots from ca
 * Troubleshoot Layer 2/3 incidents involving TCP/IP, DHCP, and DNS across multi-vendor environments
 * Maintain LAN/WAN infrastructure availability and service requests
 * Perform incident analysis and Root Cause Analysis using ServiceNow
-* Automate network monitoring and troubleshooting tasks using Python and Linux
 * Collaborate with vendors and engineering teams for issue escalation and resolution
 
 ### AI Intern — L&T Technology Services
 
 **Bengaluru, India | Oct 2023 – Dec 2023**
 
-* Developed Python automation for network health checks and log parsing
-* Supported AI-driven data analysis initiatives
+* DL project for parking slot detection for autonomous vechiles
+* OpenCV, LLM, ML, DL, Data annotation and preprocessing.
 * Worked with automation and technical problem-solving in an engineering environment
 
 ---
@@ -99,7 +87,9 @@ Developed an AI-based system to detect vacant and occupied parking slots from ca
 AI-Controlled Touchless Water Dispenser
 Application No. 202441077657 A
 
-🎓 **CCNA — In Progress**
+🎓 **AWS certified Solution architect**
+
+🎓 **CompTIA Security+ — In Progress**
 
 👨‍💼 **Secretary — IEEE Atria Student Branch**
 2024–2025
@@ -111,26 +101,13 @@ Application No. 202441077657 A
 
 ## 🔧 Currently Building My Skills
 
-* Advanced Networking
-* Network Automation
+* AWS cloud
 * Python for Infrastructure
 * Linux & Shell Scripting
-* Network Security
-* Cloud Networking
-* AWS
-* DevOps
-
----
-
-## 🎯 Areas of Interest
-
-**Network Engineering**
-**Network Automation**
-**Infrastructure Engineering**
-**Network Security**
-**Cloud Networking**
-**DevOps**
-**AI-driven Automation**
+* cloud Security
+* Cloud infrastructure 
+* Security operation 
+* AI-driven Automation
 
 ---
 
